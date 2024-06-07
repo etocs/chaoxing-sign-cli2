@@ -1,4 +1,4 @@
-const baseUrl = `http://${window.location.hostname}:5000`;
+const baseUrl = `https://cx.xingyuexi.eu.org:5000`;
 
 export const login_api = baseUrl + '/login';
 
